@@ -10,7 +10,7 @@ Binary black holes (BBHs) appear to be widespread and are able to merge through 
 **Journal:** The Astrophysical Journal<br/>
 **Publication Date:** May 2019<br/>
 **DOI:** 10.3847/1538-4357/ab1842<br/>
-[**ADS**](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...56L/abstract){:target="_blank"}<br/>
+[**ADS**](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...56L/abstract)<br/>
 [**Copyright**](https://journals.aas.org/article-charges-and-copyright/#AAS_material)
 
 ___
