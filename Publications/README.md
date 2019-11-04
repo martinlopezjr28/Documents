@@ -10,7 +10,7 @@ Binary black holes (BBHs) appear to be widespread and are able to merge through 
 **Journal:** The Astrophysical Journal<br/>
 **Publication Date:** May 2019<br/>
 **DOI:** 10.3847/1538-4357/ab1842<br/>
-[**ADS**](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...56L/abstract)
+[**ADS**](https://ui.adsabs.harvard.edu/abs/2019ApJ...877...56L/abstract)<br/>
 [**Copyright**](https://journals.aas.org/article-charges-and-copyright/#AAS_material)
 
 ___
@@ -25,5 +25,5 @@ The dynamical assembly of binary black holes (BBHs) in dense star clusters (SCs)
 **Journal:** Physical Review D<br/>
 **Publication Date:** August 2019<br/>
 **DOI:** 10.1103/PhysRevD.100.043009<br/>
-[**ADS**](https://ui.adsabs.harvard.edu/abs/2019PhRvD.100d3009S/abstract)
+[**ADS**](https://ui.adsabs.harvard.edu/abs/2019PhRvD.100d3009S/abstract)<br/>
 [**Copyright**](https://journals.aps.org/copyrightFAQ.html#post)
