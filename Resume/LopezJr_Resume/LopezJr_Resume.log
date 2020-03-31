@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  1 NOV 2019 14:44
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  3 JAN 2020 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -911,8 +911,7 @@ lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 13.
 )
-(./resume/computation.tex) (./resume/technical_experience.tex)
-(./resume/publications.tex
+(./resume/technical_experience.tex) (./resume/publications.tex
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 10.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
@@ -935,7 +934,7 @@ Overfull \hbox (71.13185pt too wide) in alignment at lines 20--20
 [] [] 
  []
 
-) (./resume/honors.tex)
+) (./resume/computation.tex) (./resume/honors.tex)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 100.
  [1
 
@@ -946,11 +945,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 29570 strings out of 493706
- 519148 string characters out of 6145769
+ 29572 strings out of 493706
+ 519252 string characters out of 6145769
  651564 words of memory out of 5000000
- 32597 multiletter control sequences out of 15000+600000
- 7081 words of font info for 83 fonts, out of 8000000 for 9000
+ 32598 multiletter control sequences out of 15000+600000
+ 7089 words of font info for 84 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  53i,12n,65p,10403b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
 
